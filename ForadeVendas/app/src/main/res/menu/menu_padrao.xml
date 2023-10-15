@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mnEndereco"
+        android:title="Endereco"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/mnCliente"
+        android:title="CLiente"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/mnItem"
+        android:title="Item"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/mnVenda"
+        android:title="Venda"
+        app:showAsAction="never"/>
+
+
+
+</menu>
